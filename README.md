@@ -1,8 +1,8 @@
 # Chase Xie
 
-独立做一些自己每天会打开的小站。盯盘的、背单词的、写校招简历的，都挂在 [chaestblog.pages.dev](https://chaestblog.pages.dev/) 上。路过想用直接点进去，不用装东西。
+个人项目展示博客 [chaestblog.pages.dev](https://chaestblog.pages.dev/) 
 
-平时主要看加密衍生品，以及美股里跟算力、HBM、设备相关的那几条线。现成工具经常对不齐自己的习惯，就自己写；写完放到公网，电脑关机也能开。
+平时主要看BigA，Crypto，Option（studying），US stock，HK stock
 
 [X @johny_xie](https://x.com/johny_xie) · [邮箱](mailto:shangchaoxie888@gmail.com) · [Buy Me a Coffee](https://buymeacoffee.com/chasetse)
 
@@ -27,7 +27,7 @@
 **线上：[fresearch.cc.cd](https://fresearch.cc.cd/)**  
 源码：[ib-research](https://github.com/shangchaovo/ib-research)
 
-不想为了 NVDA、TSM、ASML 去翻六七个新闻源，就把 UBS、Citi、摩跟、大摩这些机构的评级变动和目标价收到一起。公开标题和摘要会按股票、按机构归并；有交叉证据的目标价才进卡片，LLM 自己抽出来的数字不会单独当事实。
+不想为了 NVDA、TSM、ASML 去翻六七个新闻源，就把 UBS、Citi、MORGAN STANLEY、JP MORGAN这些机构的评级变动和目标价收到一起。公开标题和摘要会按股票、按机构归并；有交叉证据的目标价才进卡片，LLM 自己抽出来的数字不会单独当事实。
 
 观点发出去之后，会算 1 / 5 / 20 个交易日相对 SPY 走没走，用来判断市场当时有没有接这个方向。关注池是算力、HBM/存储、半导体设备、云和平台这几条线上大概 30 只。大约四小时抓一轮。
 
