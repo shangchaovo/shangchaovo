@@ -18,4 +18,4 @@
 - **准备校招** → [简历工坊](https://resume-5lv.pages.dev/)：左边改经历，右边看一页 A4 放不放得下，最后从浏览器导出 PDF。[源码](https://github.com/shangchaovo/resume-site)
 - **和朋友一起坐火车** → [同车余票](https://rail-same-train-pages.pages.dev/)：先查余票、比较路线；购票仍去官方渠道。[源码](https://github.com/shangchaovo/rail-ticket-assistant)
 
-**找老项目？** [旧资金费率看板](https://github.com/shangchaovo/funding-dashboard)和[独立期权分析器](https://github.com/shangchaovo/crypto-options-analyzer)仍保留代码，对应的网页功能已并入加密终端。还有一个小工具：[在 Mac 上导入东方财富自选](https://github.com/shangchaovo/eastmoney-mac-import)。
+**找老项目？** [旧资金费率看板](https://github.com/shangchaovo/funding-dashboard)只保留目录和占位文件，请去[加密终端的资金费率页](https://crypto-funding-arbitrage.pages.dev/#/funding)。[独立期权分析器](https://github.com/shangchaovo/crypto-options-analyzer)仍有本地实现，网页入口在[期权 Wall](https://crypto-funding-arbitrage.pages.dev/#/options)。还有一个小工具：[在 Mac 上导入东方财富自选](https://github.com/shangchaovo/eastmoney-mac-import)。
